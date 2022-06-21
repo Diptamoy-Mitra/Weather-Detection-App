@@ -1,3 +1,3 @@
 This is a weather detection app.
 
-Hosted Link:-- 
+Hosted Link:--  https://weatherapp.37diptamoydipta.repl.co/
