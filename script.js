@@ -10,6 +10,7 @@ btn.addEventListener("click", getInput);
 function getInput (event) {
     event.preventDefault();
     if (event.type == "click") {
+      
         getData(search.value);
         console.log(search.value);
     }
